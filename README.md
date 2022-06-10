@@ -2,5 +2,4 @@
 App Android que faz o calculo de gorjeta 
 
 
-
-https://user-images.githubusercontent.com/63815922/172975969-79dcf741-2858-4a4d-9f19-180517da55ea.mp4
+![calcular -gorjeta](https://user-images.githubusercontent.com/63815922/173045133-2cdc1e45-17cb-4689-9c0a-f49b80666d7f.gif)
